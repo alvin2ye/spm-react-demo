@@ -1,0 +1,8 @@
+spm react 打包方式
+
+打包命令
+
+spm build --sea all
+
+spm --version
+3.4.2
